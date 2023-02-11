@@ -1,0 +1,13 @@
+server:
+  port: 18080
+
+springdoc:
+  swagger-ui:
+    path: /swagger
+    enabled: true
+
+netty:
+  connect-timeout: 5000
+  read-timeout: 5000
+  write-timeout: 5000
+  buffer-size: 20971520
