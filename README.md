@@ -5,8 +5,8 @@
 
 ## Архитектура
 Полное приложение имеет микросервисную архитектуру и состоит из 2 сервисов:
-* Backend - сервис для хранения списка серверов, регистрации пользователей (текущий репозиторий)
-* Pinger - сервис для проверки статусов серверов (https://github.com/GreenpixDev/MonitoringPinger)
+* Backend - сервис для хранения списка серверов, регистрации пользователей (https://github.com/GreenpixDev/MonitoringBackend)
+* Pinger - сервис для проверки статусов серверов (текущий репозиторий)
 
 ![Dependency Visualizer-Страница 5 drawio (1)](https://user-images.githubusercontent.com/58062046/227698060-295aa234-1ede-459f-bfea-478a72627a7c.png)
 
