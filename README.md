@@ -1,7 +1,7 @@
 # MonitoringPinger (pet project)
 
 ## Описание
-Сервис для проверки состояний игровых серверов [minecraft](https://www.minecraft.net/ru-ru) (далее просто - игровой сервер) с помощью TCP пакетов, описанных в [протоколе minecraft java edition](https://wiki.vg/Protocol). Для отправки пакетов использовалась библиотека reactor netty.
+Сервис для проверки состояний игровых серверов [minecraft](https://www.minecraft.net/ru-ru) (далее просто - игровой сервер) с помощью пакетов, описанных в [протоколе minecraft java edition](https://wiki.vg/Protocol). Для отправки пакетов использовалась библиотека reactor netty.
 
 ## Архитектура
 Полное приложение имеет микросервисную архитектуру и состоит из 2 сервисов:
